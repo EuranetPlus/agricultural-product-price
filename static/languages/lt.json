@@ -1,13 +1,12 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kiek išaugo žemės ūkio produktų kainos ES?",
+  "subtitle": "Nuo 2020 iki 2025 m. kainos visoje ES išaugo 37,3 %.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Žemės ūkio produktų kainų indeksai, produkcija (2020 = 100) – ketvirtiniai duomenys",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
+  "textSource": "Eurostatas",
+  "linkDataAccessDescription": "Prieiga prie duomenų",
   "legend1": "Nėra duomenų",
-  "tooltipExtraInfoLabel": "Spauskite čia"
+  "customUnitLabel": "pokyčių greitis",
+  "tooltipExtraInfoLabel": "Spustelėkite čia"
 }
