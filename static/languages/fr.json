@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Dans quelle mesure les prix agricoles ont-ils augmenté dans l’UE ?",
+  "subtitle": "Entre 2020 et 2025, les prix ont augmenté de 37,3 % dans l’ensemble de l’UE.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Indices des prix des produits agricoles, production (2020 = 100) - données trimestrielles",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "taux de variation",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
